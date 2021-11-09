@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesthompson2004
 - 👀 I’m interested in anything Microsoft
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating and organizing documentation.
 - 📫 How to reach me @jamesthompson or jthompson@arshtcenter.org
